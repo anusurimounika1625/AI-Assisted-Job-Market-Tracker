@@ -49,5 +49,5 @@ Add your verified findings from the dashboard here:
 ## ✅ Conclusion
 This project demonstrates how Power BI can be used to analyse job market data and communicate insights through interactive dashboards and visualizations.
 
----
+## Author
 Created as a data analytics portfolio project.
