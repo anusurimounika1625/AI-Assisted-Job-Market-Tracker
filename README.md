@@ -17,4 +17,4 @@ A Power BI dashboard that analyzes job postings, skills demand, salaries, and hi
 
 ## Files
 - AI_Assisted_Job_Market_Tracker.pbix
-- dashboard.png
+- dashboard.png.png
